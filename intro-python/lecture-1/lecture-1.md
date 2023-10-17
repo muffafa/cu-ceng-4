@@ -22,3 +22,7 @@ python
 There is no need to main function
 
 \ contunation line
+
+## The all slides that belongs to lecturer
+
+[https://ceng.cu.edu.tr/skartal/cen427/kaynaklar.html](https://ceng.cu.edu.tr/skartal/cen427/kaynaklar.html)
